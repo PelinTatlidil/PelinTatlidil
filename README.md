@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PelinTatlidil
-- 👀 I’m interested in being a cloud practitioner, learning devops and python
+- 👀 I’m interested in being a solution architect, devops and python
 - 🌱 I’m currently learning devops and python, Azure, etc
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me linkedin
